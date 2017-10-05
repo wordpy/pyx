@@ -25,7 +25,6 @@ Quick Start
 -----------
 `$ python # or ipython`
 
-    :::python
     >>> import pyx.php as Php; array = Php.array
     >>> arr1 = array( (0,'1-0'),('a','1-a'),('b','1-b'),)
     >>> arr2 = array( (0,'2-0'),(  1,'2-1'),('b','2-b'),('c','2-c'),)
