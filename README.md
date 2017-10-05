@@ -78,7 +78,7 @@ Beyond the limit of number of array() that can be instantiated as listed
 above, all versions are identical.
 There is no time limit or other limits whatsoever.
 
-Please register at <https://wordpy.com/pyx/php/> to download the FREE
+Please register at <https://wordpy.com/new-acct/> to download the FREE
 register version or the PAID versions.
 See LICENSE.md
 
