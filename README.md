@@ -5,6 +5,10 @@ Run Converted PHP Codes in Python with the Speed of Compiled-C
 translate 99% of most common PHP source codes to pure Python.
 In another words, it is a PHP-to-Python syntax emulation library in Cython.
 
+The converted Python codes only require a Python 3.x interpreter,
+the modules in the pyx repository, and some standard Python libraries.
+PHP interpreter is not needed at all.
+
 If we have already translated most of the WordPress core and other
 scripts from PHP to Python using `pyx.php`, you can convert almost
 any PHP code into Python.
