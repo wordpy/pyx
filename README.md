@@ -1,5 +1,5 @@
-Run Converted PHP Codes in Python with the Speed of Compiled-C
---------------------------------------------------------------
+Run Converted PHP Codes in Python at the Speed of Compiled-C
+------------------------------------------------------------
 
 `pyx.php` is a Cython compiled module that you can use to convert or
 translate 99% of most common PHP source codes to pure Python.
