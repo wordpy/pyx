@@ -19,14 +19,19 @@ the same computer.
 
 Installation
 ------------
-Download from your browser or from Linux shell:
+Download:
 
-    $ wget https://wordpy.com/pyx/pyx.tgz
-    $ tar xvfpz pyx.tgz
+    $ git clone https://github.com/wordpy/wordpy/
+    ls -la wordpy/pyx
 
 Alternatively, you can:
 
     $ git clone https://github.com/wordpy/pyx/
+
+You can download older version from your browser or from Linux shell:
+
+    $ wget https://wordpy.com/pyx/pyx.tgz
+    $ tar xvfpz pyx.tgz
 
 Currently, `pyx.php` is only available for Python 3.x running 64-bit Linux.
 Python 2.x, Mac, or other platforms can be compiled when there are many
