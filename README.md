@@ -30,7 +30,7 @@ Alternatively, you can:
 
 You can download older version from your browser or from Linux shell:
 
-    $ wget https://wordpy.com/pyx/pyx.tgz
+    $ wget https://wordpy.com/doc/pyx/pyx.tgz
     $ tar xvfpz pyx.tgz
 
 Currently, `pyx.php` is only available for Python 3.x running 64-bit Linux.
